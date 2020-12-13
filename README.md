@@ -44,5 +44,5 @@
 
 ## THANKS TO
 * ALFBOT
-* RAIHAN
+* EHAN GANSS
 
