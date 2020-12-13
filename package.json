@@ -1,5 +1,5 @@
 {
-  "name": "ALFBOT",
+  "name": "PUPY-BOT",
   "version": "1.0.0",
   "description": "bot termux",
   "main": "index.js",
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfiansx/alfbot"
+    "url": "https://github.com/fallahX/PUPY-BOT"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "FALLAH",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/fallahX/PUPY-BOT/issues"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/fallahX/PUPY-BOT#readme"
 }
