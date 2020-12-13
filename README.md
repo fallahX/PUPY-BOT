@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="PUPY-BOT" src ="https://i.ibb.co/jD65tdm/62-812-1347-7896-20201109-230938.jpg" width="320">
+    <img alt="PUPY-BOT" src ="https://i.ibb.co/QvWWx62/images-15.jpg" width="320">
     <h3> BOT WHATSAPP YANG BISA DI PAKAI DI APLIKASI TERMUX</h3>
 # IM PUPY-BOT
 </div>
