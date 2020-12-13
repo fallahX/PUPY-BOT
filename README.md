@@ -12,8 +12,8 @@
 > download termux
 > buka
 > pkg install git
-> git clone https://github.com/alfiansx/alfbot
-> cd alfbot
+> git clone https://github.com/fallahX/PUPY-BOT
+> cd PUPY-BOT
 > bash install.sh
 > node index.js
 ```
